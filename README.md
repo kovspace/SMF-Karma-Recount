@@ -4,6 +4,6 @@ Recount karma for all users
 
 Using:
 
-```php
+```bash
 php karma_recount.php
 ```
